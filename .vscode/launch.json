@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio02.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio08.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio20.principal.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio19.principal.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio18.principal.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio17.principal.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio16.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio15.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio14.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio13.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio12.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio11.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio10.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio09.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio07.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio06.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio05.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio04.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio03.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejercicio01.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "ar.edu.unju.fi.ejemplo01.Principal",
+            "projectName": "grupo017_6c07825c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "grupo017_6c07825c"
+        }
+    ]
+}
